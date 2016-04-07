@@ -1,3 +1,14 @@
+#CIA Spellchecker 2015
+Java application, OpenOffice extension, files for use with existing Firefox plug-in
+
+Any rules about language, be they grammar rules or style rules, have the potential to be ideologically significant — perhaps even more so in a world where spellcheckers and autocorrectors supply these rules automatically and as fact. This is painfully obvious in the CIA’s Style Manual & Writer’s Guide. Released online in 2014, the document is a fascinating look at how that most secretive of government agencies approaches language, skewing authority and history in the process (see the screenshots for some real gems).
+
+A modified version of LanguageTool’s fully-functional open source grammar and spell-checking program, CIA Spellchecker applies the eighth edition of the Style Manual & Writers Guide for Intelligence Publications to daily communication. I’ve created versions to use stand-alone, with a text editor (OpenOffice), and with a web browser (Firefox). So go ahead, and proofread like a spy… or not. The idea is to become more aware of subtle changes in language and style and to guard against more hidden forms of censorship and linguistic bias.
+
+Troubleshooting: Having trouble? Make sure you read the installation instructions. Please also see the LanguageTool checklist or email me for assistance.
+
+Credits: All of the software was made using LanguageTool. I have simply created new grammar rules, added words to the English spelling dictionary, and swapped out some logos. Everything will soon be freely available on GitHub.
+
 # LanguageTool
 
 **A proof-reading tool for English, Spanish, German,
