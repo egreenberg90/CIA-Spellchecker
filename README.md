@@ -14,7 +14,7 @@ Please see www.emilygreenberg.net/cia.html
 
 CIA Spellchecker stand-alone desktop application:
 
-1. Make sure you have the required versions of Java and Java Runtime Environment.
+1. Make sure you have the required versions of Java (7+) and Java Runtime Environment.
 
 2. Download the zip file.
 
@@ -27,11 +27,11 @@ CIA Spellchecker stand-alone desktop application:
 
 CIA Spellchecker OpenOffice extension:
 
-1. Make sure you have the required versions of Java and OpenOffice.
+1. Make sure you have the required versions of Java (7+) and OpenOffice.
 
 2. Download the zip file.
 
-3. Unzip the file to reveal the oxt.
+3. Unzip the file to reveal the oxt. (You have to download this from emilygreenberg.net/cia.html)
 
 4. Double click the oxt. The OpenOffice Extension Manager should pop up. Click Ok to install the
 extension.
