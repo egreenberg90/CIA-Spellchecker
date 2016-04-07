@@ -14,40 +14,68 @@ Please see www.emilygreenberg.net/cia.html
 
 CIA Spellchecker stand-alone desktop application:
 1. Make sure you have the required versions of Java and Java Runtime Environment.
+
 2. Download the zip file.
+
 3. Unzip the file.
+
 4. Double click languagetool.jar to run the program in your JRE.
+
 5. Type away, and proofread like a spy!
+
 CIA Spellchecker OpenOffice extension:
 1. Make sure you have the required versions of Java and OpenOffice.
+
 2. Download the zip file.
+
 3. Unzip the file to reveal the oxt.
+
 4. Double click the oxt. The OpenOffice Extension Manager should pop up. Click Ok to install the
 extension.
+
 5. When the extension finishes installing, click Close.
+
 6. Close and re-start OpenOffice.
+
 7. In OpenOffice, go to OpenOffice in the top menu and select Preferences.
+
 8. Select Language Settings > Writing Aids.
+
 9. Under Language Models, un-check everything except for LanguageTool. Click Ok.
-10. Click the Spelling and Grammar icon (F7). The dialogue box should have the CIA Spellchecker
-logo. If not, you may need to close OpenOffice and re-start.
+
+10. Click the Spelling and Grammar icon (F7). The dialogue box should have the CIA Spellchecker logo. If not, you may need to close OpenOffice and re-start.
+
 11. Type away, and proofread your text like a spy!
+
 CIA Spellchecker with LanguageTool Firefox plug-in:
 1. Make sure you have the required versions of Firefox and the CIA Spellchecker stand-alone
 desktop application.
+
 2. Download the LanguageTool Firefox plug in: https://addons.mozilla.org/en-
 US/firefox/addon/languagetoolfx
+
 3. You should see the LT logo in the top right of your browser.
+
 4. In Firefox, go to Tools < Add-ons.
+
 5. Go to extensions.
+
 6. Select the LanguageTool extension < Preferences.
+
 7. Make sure the plug-in runs on the local server and DO NOT check the box to enable web service.
+
 8. In the folder containing the CIA Spellchecker desktop application, doubleclick languagetool.jar to run the program in your JRE.
+
 9. In the application, select Text Checking from the top menu.
+
 10. Go to Options.
+
 11. Check the box to run the server on port.
+
 12. You may need to re-start Firefox.
+
 13. Highlight any text and either click the icon or right click to bring up the menu option.
+
 14. Highlight away, and proofread like a spy!
 
 # LanguageTool
