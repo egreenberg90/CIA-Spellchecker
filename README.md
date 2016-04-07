@@ -13,6 +13,7 @@ Credits: All of the software was made using LanguageTool. I have simply created 
 Please see www.emilygreenberg.net/cia.html
 
 CIA Spellchecker stand-alone desktop application:
+
 1. Make sure you have the required versions of Java and Java Runtime Environment.
 
 2. Download the zip file.
@@ -23,7 +24,9 @@ CIA Spellchecker stand-alone desktop application:
 
 5. Type away, and proofread like a spy!
 
+
 CIA Spellchecker OpenOffice extension:
+
 1. Make sure you have the required versions of Java and OpenOffice.
 
 2. Download the zip file.
@@ -47,7 +50,9 @@ extension.
 
 11. Type away, and proofread your text like a spy!
 
+
 CIA Spellchecker with LanguageTool Firefox plug-in:
+
 1. Make sure you have the required versions of Firefox and the CIA Spellchecker stand-alone
 desktop application.
 
