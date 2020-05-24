@@ -1,16 +1,12 @@
-#CIA Spellchecker 2015
+#CIA Spellchecker
 Java application, OpenOffice extension, files for use with existing Firefox plug-in
 
-Any rules about language, be they grammar rules or style rules, have the potential to be ideologically significant — perhaps even more so in a world where spellcheckers and autocorrectors supply these rules automatically and as fact. This is painfully obvious in the CIA’s Style Manual & Writer’s Guide. Released online in 2014, the document is a fascinating look at how that most secretive of government agencies approaches language, skewing authority and history in the process (see the screenshots for some real gems).
 
-A modified version of LanguageTool’s fully-functional open source grammar and spell-checking program, CIA Spellchecker applies the eighth edition of the Style Manual & Writers Guide for Intelligence Publications to daily communication. I’ve created versions to use stand-alone, with a text editor (OpenOffice), and with a web browser (Firefox). So go ahead, and proofread like a spy… or not. The idea is to become more aware of subtle changes in language and style and to guard against more hidden forms of censorship and linguistic bias.
+A modified version of LanguageTool’s fully-functional open source grammar and spell-checking program, CIA Spellchecker applies the eighth edition of the Style Manual & Writers Guide for Intelligence Publications to daily communication. I’ve created versions to use stand-alone as a Java application, with a text editor (OpenOffice), and with a web browser (Firefox). So go ahead, and proofread like a spy!
 
-Troubleshooting: Having trouble? Make sure you read the installation instructions. Please also see the LanguageTool checklist or email me for assistance.
-
-Credits: All of the software was made using LanguageTool. I have simply created new grammar rules, added words to the English spelling dictionary, and swapped out some logos. Everything will soon be freely available on GitHub.
+Credits: The project was made using LanguageTool's existing software. I have simply created new grammar rules, added words to the English spelling dictionary, and swapped out some logos. 
 
 #Installation Instructions
-Please see www.emilygreenberg.net/cia.html
 
 CIA Spellchecker stand-alone desktop application:
 
@@ -31,7 +27,7 @@ CIA Spellchecker OpenOffice extension:
 
 2. Download the zip file.
 
-3. Unzip the file to reveal the oxt. (You have to download this from emilygreenberg.net/cia.html)
+3. Unzip the file to reveal the oxt.
 
 4. Double click the oxt. The OpenOffice Extension Manager should pop up. Click Ok to install the
 extension.
@@ -56,32 +52,33 @@ CIA Spellchecker with LanguageTool Firefox plug-in:
 1. Make sure you have the required versions of Firefox and the CIA Spellchecker stand-alone
 desktop application.
 
-2. Download the LanguageTool Firefox plug in: https://addons.mozilla.org/en-
-US/firefox/addon/languagetoolfx
+2. Open Firefox.
 
-3. You should see the LT logo in the top right of your browser.
+3. Add the LanguageTool Firefox plug in: https://addons.mozilla.org/firefox/downloads/file/3564783/grammatik_und_rechtschreibprufung_languagetool-3.1.5-fx.xpi?src=dp-btn-primary
 
-4. In Firefox, go to Tools < Add-ons.
+4. You should see the LT logo in the top right of your browser.
 
-5. Go to extensions.
+5. In Firefox, go to Tools < Add-ons.
 
-6. Select the LanguageTool extension < Preferences.
+6. Go to extensions.
 
-7. Make sure the plug-in runs on the local server and DO NOT check the box to enable web service.
+7. Select the LanguageTool extension < Preferences.
 
-8. In the folder containing the CIA Spellchecker desktop application, doubleclick languagetool.jar to run the program in your JRE.
+8. Make sure the plug-in runs on the local server and DO NOT check the box to enable web service.
 
-9. In the application, select Text Checking from the top menu.
+9. In the folder containing the CIA Spellchecker desktop application, doubleclick languagetool.jar to run the program in your JRE.
 
-10. Go to Options.
+10. In the application, select Text Checking from the top menu.
 
-11. Check the box to run the server on port.
+11. Go to Options.
 
-12. You may need to re-start Firefox.
+12. Check the box to run the server on port.
 
-13. Highlight any text and either click the icon or right click to bring up the menu option.
+13. You may need to re-start Firefox.
 
-14. Highlight away, and proofread like a spy!
+14. Highlight any text and either click the icon or right click to bring up the menu option.
+
+15. Highlight away, and proofread like a spy!
 
 # LanguageTool
 
