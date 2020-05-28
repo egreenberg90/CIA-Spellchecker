@@ -25,9 +25,9 @@ CIA Spellchecker OpenOffice extension:
 
 1. Make sure you have the required versions of Java (7+) and OpenOffice.
 
-2. Download the zip file.
+2. Click on this link: https://www.dropbox.com/s/8etadftyrybqnib/CIA_spellchecker_openoffice2.oxt?dl=0
 
-3. Unzip the file to reveal the oxt.
+3. Download from Dropbox.
 
 4. Double click the oxt. The OpenOffice Extension Manager should pop up. Click Ok to install the
 extension.
